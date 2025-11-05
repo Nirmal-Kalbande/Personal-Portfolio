@@ -12,9 +12,10 @@ const Projects = () => {
     {
       title: "Personal Portfolio",
       description:
-        "A modern portfolio website created using HTML, CSS, and JavaScript to showcase my skills, education, and projects.",
-      tech: "HTML, CSS, JavaScript",
-      link: "https://github.com/Nirmal-Kalbande/Portfolio",
+        "A modern and responsive personal portfolio website built using React and Vite. It showcases my professional profile, education, technical skills, and featured projects. The site is fully responsive, well-structured, and deployed using GitHub Pages.",
+      tech: "HTML, CSS, JavaScript, 
+      React",
+      link: "https://github.com/Nirmal-Kalbande/Personal-Portfolio",
     },
     {
       title: "News Summarizer",
