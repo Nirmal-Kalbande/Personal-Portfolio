@@ -43,7 +43,7 @@ export default function About() {
             </div>
             <div className="skill">
               <FaReact className="skill-icon react" />
-              <span>React (Learning)</span>
+              <span>React </span>
             </div>
             <div className="skill">
               <FaPython className="skill-icon python" />
